@@ -13,9 +13,5 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirillkp59&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<style type="text/css">
-  h1 {
-    color: red;
-  }
-</style>
+<span style="color: green"> Some green text </span>
 <body/>
