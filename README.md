@@ -3,7 +3,7 @@
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 "C++ создан для того, чтобы гандонки могли писать чернуху, которая никогда не будет выполняться."</br>- Pizduk (C) 2018 - 2022
 !-->
-<body style="body { background: rgb(255, 0, 0); }">
+<body style="body { background-color: rgb(255, 0, 0); }">
 <h1 align="center">HTML Праграматар<br/><img src="https://media.discordapp.net/attachments/707018593581137921/924017864191643679/cppcocksig.png?width=894&height=559" height="64"/></h1>
 <h3 align="center">С базара шкуру спускали <img src="https://cdn.discordapp.com/attachments/941399611707363399/945364486288736296/emoji.png" height="18"/></h3>
 <h4>"Если бы мамака базара знала, сколько денег я сэкономил на её похоронах, то она бы перевернулась в канаве." </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Pizduk (C) 2020 - 2022</h4>
